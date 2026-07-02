@@ -196,8 +196,6 @@ This page helps management identify high-performing routes, optimize route strat
 
 - Interactive KPI Cards
 - Dynamic Slicers
-- Cross Filtering
-- Drill Down Analysis
 - Custom DAX Measures
 - Responsive Layout
 - Professional Color Theme
@@ -239,7 +237,6 @@ Using this dashboard, management can:
 2. Route Performance
 3. Trends & Analysis
 4. Aircraft Performance
-5. Route Insights
 
 ---
 
@@ -248,9 +245,3 @@ Using this dashboard, management can:
 The Airline Route Profitability Dashboard transforms raw airline operational data into meaningful business insights. It enables stakeholders to monitor financial performance, evaluate route efficiency, improve aircraft utilization, and make informed decisions through interactive visualizations and KPI tracking.
 
 ---
-
-# 👨‍💻 Developed By
-
-**Om Peshavariya**
-
-Power BI | SQL | Data Analytics
